@@ -57,14 +57,14 @@
 
 ### Grupos e Pré-fabricados:
 /setgroup - Define um ID de grupo para objetos de grupo<br>
-/selectgroup - Selecione um grupo de objetos para editar<br>
+/selectgroup ou /sg - Selecione um grupo de objetos para editar<br>
 /gsel - Abra clique em selecionar para adicionar/remover objetos do seu grupo<br>
 /gadd - Adicione um objeto ao seu grupo útil para objetos que não podem ser clicados<br>
 /grem - Remova um objeto específico do seu grupo<br>
 /gclear - Limpe sua seleção de grupo<br>
 /gclone - Clone sua seleção de grupo<br>
 /gdelete - Exclua todos os objetos do seu grupo<br>
-/editgroup - Comece a editar um grupo<br>
+/editgroup ou /eg - Comece a editar um grupo<br>
 /gox - /goy - /goz - Comandos de movimento de grupo padrão<br>
 /gox - /goy - /goz - Comandos de rotação de grupo padrão<br>
 /gaexport - Exporta um grupo de objetos para um objeto anexado FS (ainda não concluído)<br>
