@@ -1,0 +1,11 @@
+.vscode/
+logs/
+scriptfiles/tstudio/PreFabs/
+scriptfiles/tstudio/ImportMaps/
+scriptfiles/tstudio/ExportMaps/
+scriptfiles/tstudio/ExportCars/
+scriptfiles/tstudio/SavedMaps/
+scriptfiles/tstudio/DayZCars/
+scriptfiles/tstudio/AttachExport/
+server_log.txt
+crashinfo.txt
